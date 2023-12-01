@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**Akunen/Akunen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate and dedicated student at [JAMK University of Applied Sciences]. Currently, I am actively seeking opportunities for work or internships in the field of software development.
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** JavaScript, Python
+- **Web Development:** HTML, CSS, React.js
+- **Backend Technologies:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Cloud Computing:** Amazon Web Services (AWS), including:
+  - Amazon EC2
+  - Amazon S3
+  - AWS Lambda
+  - Amazon DynamoDb
+  - AWS CloudFormation
+  - and others!
+- **Version Control:** Git, GitHub
+- **Tools:** VSCode, Docker
+- **Testing:** Jest
+
+## 📧 Contact
+
+- **Email:** jarvinen.aku@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/aku-j%C3%A4rvinen-23538a1b7/))
+
+## 🤝 Let's Connect!
