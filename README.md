@@ -22,6 +22,6 @@ I am a passionate and dedicated student at JAMK University of Applied Sciences. 
 ## 📧 Contact
 
 - **Email:** jarvinen.aku@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/aku-j%C3%A4rvinen-23538a1b7/)
+- **LinkedIn:** [Aku Järvinen](https://www.linkedin.com/in/aku-j%C3%A4rvinen-23538a1b7/)
 
 ## 🤝 Let's Connect!
