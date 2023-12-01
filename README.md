@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate and dedicated student at [JAMK University of Applied Sciences]. Currently, I am actively seeking opportunities for work or internships in the field of software development.
+I am a passionate and dedicated student at JAMK University of Applied Sciences. Currently, I am actively seeking opportunities for work or internships in the field of software development.
 
 ## 🔧 Skills
 
@@ -22,6 +22,6 @@ I am a passionate and dedicated student at [JAMK University of Applied Sciences]
 ## 📧 Contact
 
 - **Email:** jarvinen.aku@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/aku-j%C3%A4rvinen-23538a1b7/))
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/aku-j%C3%A4rvinen-23538a1b7/)
 
 ## 🤝 Let's Connect!
