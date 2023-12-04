@@ -27,7 +27,7 @@ I am a passionate and dedicated student at [JAMK University of Applied Sciences.
 </div>
 
 <div style="border: 1px solid #ddd; padding: 10px; margin: 10px;">
-  <strong><a href="link-to-repo2">Project 2</a></strong>
+  <strong><a href="https://github.com/Akunen/aws-s3-uploader/tree/main">S3 Uploader</a></strong>
   <p>Brief description of Project 2. This project achieves A, B, and C.</p>
 </div>
 
