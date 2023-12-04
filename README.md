@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate and dedicated student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en) Currently, I am actively seeking opportunities for work or internships in the field of software development.
+I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en) Currently, I am actively seeking opportunities for work or internships in the field of software development.
 
 ## 🔧 Skills
 
@@ -27,7 +27,7 @@ I am a passionate and dedicated student at [JAMK University of Applied Sciences.
 
 <div style="border: 1px solid #ddd; padding: 10px; margin: 10px;">
   <strong><a href="https://github.com/Akunen/aws-s3-uploader/tree/main">S3 Uploader</a></strong>
-  <p>This AWS Lambda function allows for serverless image uploads to an S3 bucket..</p>
+  <p>This AWS Lambda function allows for serverless image uploads to an S3 bucket.</p>
 </div>
 
 <div style="border: 1px solid #ddd; padding: 10px; margin: 10px;">
