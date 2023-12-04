@@ -20,13 +20,16 @@ I am a passionate and dedicated student at [JAMK University of Applied Sciences.
 - **Testing:** Jest
 
 ## Projects
-<!-- Project 1 -->
-<details>
-  <summary><strong><a href="link-to-repo1">Project 1</a></strong></summary>
-  <p>
-    Brief description of Project 1. This project does X, Y, and Z. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  </p>
-</details>
+<div style="border: 1px solid #ddd; padding: 10px; margin: 10px;">
+  <strong><a href="link-to-repo1">Project 1</a></strong>
+  <p>Brief description of Project 1. This project does X, Y, and Z.</p>
+</div>
+
+<div style="border: 1px solid #ddd; padding: 10px; margin: 10px;">
+  <strong><a href="link-to-repo2">Project 2</a></strong>
+  <p>Brief description of Project 2. This project achieves A, B, and C.</p>
+</div>
+
 
 <!-- Project 2 -->
 <details>
