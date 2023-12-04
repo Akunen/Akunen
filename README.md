@@ -6,7 +6,7 @@ I am a passionate and dedicated student at [JAMK University of Applied Sciences.
 
 - **Programming Languages:** JavaScript, Python
 - **Web Development:** HTML, CSS, React.js
-- **Backend Technologies:** Node.js, Express.js
+- **Backend Technologies:** Node.js, Express.js, Serverless framework
 - **Database:** MongoDB, MySQL
 - **Cloud Computing:** Amazon Web Services (AWS), including:
   - Amazon EC2
@@ -18,6 +18,24 @@ I am a passionate and dedicated student at [JAMK University of Applied Sciences.
 - **Version Control:** Git, GitHub
 - **Tools:** VSCode, Docker
 - **Testing:** Jest
+
+## Projects
+<!-- Project 1 -->
+<details>
+  <summary><strong><a href="link-to-repo1">Project 1</a></strong></summary>
+  <p>
+    Brief description of Project 1. This project does X, Y, and Z. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  </p>
+</details>
+
+<!-- Project 2 -->
+<details>
+  <summary><strong><a href="link-to-repo2">Project 2</a></strong></summary>
+  <p>
+    Brief description of Project 2. This project achieves A, B, and C. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+  </p>
+</details>
+
 
 ## 📧 Contact
 
