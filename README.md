@@ -44,6 +44,18 @@ I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en)
   Technologies used: AWS Cloudformation</p>
 </div>
 
+## About me
+
+I am a web development student from Jyväskylä. I'm on the lookout for an internship opportunity that will let me dive into the practical side of everything I've learned. 
+
+I am both responsible and outgoing, I enjoy tackling challenges and constantly expanding my knowledge base.
+
+I have a strong sense of responsibility and I love for problem-solving. I also love learning new things and take pride in maintaining a solid work ethic. What sets me apart is my openness to new opportunities and challenges – I believe that every challenge is a chance to grow, and I'm not one to shy away from that.
+
+As a team player, I value good communication and expressing yourself. I am reliable and supportive and can adapt to changing circumstances well.
+
+look forward to contributing to a dynamic team and furthering my growth in the ever-evolving tech landscape.
+
 ## 📧 Contact
 
 - **Email:** jarvinen.aku@gmail.com
