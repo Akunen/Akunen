@@ -4,7 +4,7 @@ I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en)
 
 ## 🔧 Skills
 
-- **Programming Languages:** JavaScript, Python
+- **Programming Languages:** JavaScript, TypeScript, Python
 - **Web Development:** HTML, CSS, React.js
 - **Backend Technologies:** Node.js, Express.js, Serverless framework
 - **Database:** MongoDB, MySQL
