@@ -33,7 +33,7 @@ I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en)
 </div>
 
 <div>
-  <strong><a href="https://github.com/Akunen/Backend-1-final-assignment">Backend 1 Final assignment</a></strong>
+  <strong><a href="https://github.com/Akunen/Backend-1-final">Backend 1 Final assignment</a></strong>
   <p>Backend for E-library. Allows users to add, remove and edit books and review them. 
   Technologies used: Node.js, Express.js, JWT</p>
 </div>
