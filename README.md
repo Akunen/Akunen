@@ -54,7 +54,7 @@ I have a strong sense of responsibility and I love for problem-solving. I also l
 
 As a team player, I value good communication and expressing yourself. I am reliable and supportive and can adapt to changing circumstances well.
 
-look forward to contributing to a dynamic team and furthering my growth in the ever-evolving tech landscape.
+I look forward to contributing to a dynamic team and furthering my growth in the ever-evolving tech landscape.
 
 ## 📧 Contact
 
