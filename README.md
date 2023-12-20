@@ -28,7 +28,7 @@ I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en)
 
 <div>
   <strong><a href="https://github.com/Akunen/country-info">Country info app with React</a></strong>
-  <p>This application allows users to search for countries and it displays basic information about the searched county e.g. flag and weather.</p>
+  <p>This application allows users to search for countries and it displays basic information about the searched county e.g. flag and weather. Technologies used: React JS, University of Helsinki Rest Countries API, OpenWeatherMap API</p>
 </div>
 
 
