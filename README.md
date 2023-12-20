@@ -27,6 +27,12 @@ I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en)
 </div>
 
 <div>
+  <strong><a href="https://github.com/Akunen/country-info">Country info app with React</a></strong>
+  <p>This application allows users to search for countries and it displays basic information about the searched county e.g. flag and weather.</p>
+</div>
+
+
+<div>
   <strong><a href="https://github.com/Akunen/aws-s3-uploader/tree/main">S3 Uploader</a></strong>
   <p>AWS Lambda function that allows for serverless image uploads to an S3 bucket.
   Technologies used: AWS SDK for JavaScript, Serverless framework</p>
