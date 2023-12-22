@@ -1,4 +1,4 @@
-### Hi there 
+### Hello, World! 
 
 I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en) Currently, I am actively seeking opportunities for work or internships in the field of software development.
 
