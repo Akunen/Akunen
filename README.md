@@ -1,8 +1,8 @@
-### Hello, World! 
+### Hello, World! :robot:
 
 I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en) Currently, I am actively seeking opportunities for work or internships in the field of software development.
 
-## 🔧 Skills
+## Skills 🔧
 
 - **Programming Languages:** JavaScript, TypeScript, Python
 - **Web Development:** HTML, CSS, React.js
@@ -19,7 +19,7 @@ I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en)
 - **Tools:** VSCode, Docker
 - **Testing:** Jest
 
-## Projects
+## Projects :space_invader:
 <div>
   <strong><a href="https://github.com/Akunen/Blog-fullstack/tree/main">Blog Application with React and Node.js</a></strong>
   <p>An application created during the FullstackOpen course. This is a simple blog application implemented using React on the frontend and Node.js on the backend. The application allows users to read blogs, add their own blogs, and give them likes.
@@ -56,7 +56,7 @@ I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en)
   Technologies used: Python, Pillow Python Imaging Library</p>
 </div>
 
-## About me
+## About me :alien:
 
 I am a web development student from Jyväskylä. I'm on the lookout for an internship opportunity that will let me dive into the practical side of everything I've learned. 
 
@@ -68,7 +68,7 @@ As a team player, I value good communication and expressing yourself. I am relia
 
 I look forward to contributing to a dynamic team and furthering my growth in the ever-evolving tech landscape.
 
-## Contact
+## Contact :e-mail:
 
 - **Email:** jarvinen.aku@gmail.com
 - **LinkedIn:** [Aku Järvinen](https://www.linkedin.com/in/aku-j%C3%A4rvinen-23538a1b7/)
