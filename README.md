@@ -50,6 +50,12 @@ I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en)
   Technologies used: AWS Cloudformation</p>
 </div>
 
+<div>
+  <strong><a href="">PNG to JPG and resize Python script</a></strong>
+  <p> Little Python script that converts PNG images to JPG and resizes them.
+  Technologies used: Python, Pillow Python Imaging Library</p>
+</div>
+
 ## About me
 
 I am a web development student from Jyväskylä. I'm on the lookout for an internship opportunity that will let me dive into the practical side of everything I've learned. 
