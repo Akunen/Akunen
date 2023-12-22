@@ -51,7 +51,7 @@ I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en)
 </div>
 
 <div>
-  <strong><a href="">PNG to JPG and resize Python script</a></strong>
+  <strong><a href="https://github.com/Akunen/python-image-script">PNG to JPG and resize Python script</a></strong>
   <p> Little Python script that converts PNG images to JPG and resizes them.
   Technologies used: Python, Pillow Python Imaging Library</p>
 </div>
