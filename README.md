@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en) Currently, I am actively seeking opportunities for work or internships in the field of software development.
 
@@ -68,9 +68,7 @@ As a team player, I value good communication and expressing yourself. I am relia
 
 I look forward to contributing to a dynamic team and furthering my growth in the ever-evolving tech landscape.
 
-## 📧 Contact
+## Contact
 
 - **Email:** jarvinen.aku@gmail.com
 - **LinkedIn:** [Aku Järvinen](https://www.linkedin.com/in/aku-j%C3%A4rvinen-23538a1b7/)
-
-## 🤝 Let's Connect!
