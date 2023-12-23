@@ -56,6 +56,12 @@ I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en)
   Technologies used: Python, Pillow Python Imaging Library</p>
 </div>
 
+<div>
+  <strong><a href="https://github.com/Akunen/yt-downloader-script">Youtube video downloader script</a></strong>
+  <p> This script downloads YouTube videos by providing a video link as a command line argument.
+  Technologies used: Python, pytube</p>
+</div>
+
 ## About me :alien:
 
 I am a web development student from Jyväskylä. I'm on the lookout for an internship opportunity that will let me dive into the practical side of everything I've learned. 
