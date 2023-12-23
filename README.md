@@ -57,7 +57,7 @@ I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en)
 </div>
 
 <div>
-  <strong><a href="https://github.com/Akunen/yt-downloader-script">Youtube video downloader script</a></strong>
+  <strong><a href="https://github.com/Akunen/yt-downloader-script">Youtube video downloader Python script</a></strong>
   <p> This script downloads YouTube videos by providing a video link as a command line argument.
   Technologies used: Python, pytube</p>
 </div>
