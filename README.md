@@ -14,7 +14,7 @@ I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en)
   - AWS Lambda
   - Amazon DynamoDb
   - AWS CloudFormation
-  - and others!
+  - and more!
 - **Version Control:** Git, GitHub
 - **Tools:** VSCode, Docker
 - **Testing:** Jest
