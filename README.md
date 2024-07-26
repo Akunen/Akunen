@@ -6,7 +6,7 @@ I am a student at [JAMK University of Applied Sciences.](https://www.jamk.fi/en)
 
 - **Programming Languages:** JavaScript, TypeScript, Python
 - **Web Development:** HTML, CSS, React.js
-- **Backend Technologies:** Node.js, Express.js, Serverless framework
+- **Backend Technologies:** Node.js, Express.js, Serverless framework, AWS CDK
 - **Database:** MongoDB, MySQL
 - **Cloud Computing:** Amazon Web Services (AWS), including:
   - Amazon EC2
